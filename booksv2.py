@@ -12,7 +12,7 @@ anasayfa = """
 Basit Eğlenceli Kitap Ekleme Uygulaması 
 
 [1] Kitap Ekleme Bölümü
-[2] Kitap Silme Bölümü (Bakımda)
+[2] Kitap Silme Bölümü
 [3] Eklenen Kitapları Görme Bölümü
 [0] Çıkış
 
